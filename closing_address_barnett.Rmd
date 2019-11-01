@@ -1,0 +1,21 @@
+---
+title: "Conference Wrap-up and Some Common Issues in Meta-research"
+author: "Adrian Barnett (QUT), @aidybarnett"
+date: "8 November 2019"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+---
+# I am title
+
+Hello, GH pages!
