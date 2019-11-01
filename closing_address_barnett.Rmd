@@ -16,7 +16,7 @@ options(htmltools.dir.version = FALSE)
 
 ## When you're a hammer ...
 
-<img src="figures/hammer1.jpg" width="278" height="400">
+<img src="https://github.com/agbarnett/AIMOS/blob/master/figures/hammer1.JPG" width="278" height="400">
 
 ---
 # I am title
