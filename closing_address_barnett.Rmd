@@ -13,12 +13,16 @@ output:
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 ```
+
 ## When you're a hammer ...
 
 <img src="figures/hammer1.jpg" width="278" height="400">
-
 
 ---
 # I am title
 
 Hello, GH pages!
+
+<!--- Peter Lorre: --->
+![](https://media.giphy.com/media/3oKIPvNA4Izfo9fkKQ/giphy.gif) 
+
