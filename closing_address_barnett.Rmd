@@ -9,19 +9,24 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+
 ---
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 ```
 
+<a href="mailto:a.barnett@qut.edu.au"><i class="fa fa-paper-plane fa-fw"></i>&nbsp; a.barnett@qut.edu.au</a><br>
+<a href="http://twitter.com/aidybarnettt"><i class="fa fa-twitter fa-fw"></i>&nbsp; @aidybarnettt</a><br>
+
+
 ## When you're a hammer ...
 
-<img src="https://github.com/agbarnett/AIMOS/blob/master/figures/hammer1.JPG" width="278" height="400">
+<img src="figures/hammer1.jpg" width="60" height="60">
+
+![](https://raw.githubusercontent.com/agbarnett/AIMOS/master/figures/hammer1.JPG)
+
 
 ---
-# I am title
-
-Hello, GH pages!
 
 <!--- Peter Lorre: --->
 ![](https://media.giphy.com/media/3oKIPvNA4Izfo9fkKQ/giphy.gif) 
